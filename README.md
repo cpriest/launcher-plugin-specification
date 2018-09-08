@@ -8,9 +8,10 @@ Currently there is no known implementation of the specification yet, besides exp
 
 If you have an idea on how to improve this specification which is currently in a provisional version 0.1, or want to support it in your launcher or plugin, please open an issue with as much information as possible or contact me using my username in google's 2nd popular domain.
 
+I've setup an [playground](https://github.com/tzickel/lps-playground) to check the feasibility of this specification.
+
 Date | Document
 ---|---
 26-08-2018 | First draft for the provisional version 0.1 of the specification
-1-09-2018 | A cut down of the specification for simplicity
 
 [Click here](versions/0.1_provisional.md) to read the latest version of the specification.
